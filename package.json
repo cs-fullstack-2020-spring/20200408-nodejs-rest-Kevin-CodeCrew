@@ -1,0 +1,23 @@
+{
+  "name": "20200408-nodejs-rest-kevin-codecrew",
+  "version": "1.0.0",
+  "description": "### Set Up - Create a JS file called `index.js` - Generate the `package.json` file by running `npm init` in the terminal (accept all defaults) - Install express by running `npm install express` in the terminal - You should see `express` added as a dependency in your `package.json` file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/20200408-nodejs-rest-Kevin-CodeCrew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/20200408-nodejs-rest-Kevin-CodeCrew/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/20200408-nodejs-rest-Kevin-CodeCrew#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
