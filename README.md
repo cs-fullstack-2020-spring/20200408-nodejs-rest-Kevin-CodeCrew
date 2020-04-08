@@ -12,3 +12,6 @@
 # In your web service
 - Setup a single endpoint that will accept GET requests at `/greeting/[DYNAMIC NAME]` and respond with greeting message using the name passed in ex. `Hello there Kevin!`
 - Create a Postman test case in your collection to test your endpoint
+
+
+# Add support for CRUD operations
